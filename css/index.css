@@ -1,0 +1,135 @@
+body{
+    background-color: #EDEDED;
+}
+/* header start */
+header{
+    font-size: .293333rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: .12rem;
+    height: .413333rem;
+    line-height: .413333rem;
+    padding: 0 .146667rem;    
+}
+/* header end */
+
+/* 第一行start */
+.zhifu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: .413333rem;
+    margin-top: .28rem;
+    padding: 0 .506667rem;
+    color: #040404;
+}
+/* 第一行  end*/
+
+/* 第二行 start */
+.blue{
+    display: flex;
+    height: 3.76rem;
+    font-size: .413333rem;
+    background-color: #3CB371;
+    margin-top: .533333rem;
+    border-radius: .133333rem;
+    margin-left: .186667rem;
+    margin-right: .186667rem;
+    color: #fff;
+    border: .013333rem solid #E2E9E5;
+}
+.blue .shoufukuan{
+    width: 50%;
+}
+.blue .shoufukuan img{
+    margin-left:2rem;
+    margin-top:0.96rem;
+}
+.blue .shoufukuan p{
+    margin-left: 1.76rem;
+    margin-top: .56rem;
+}
+.blue .wallet{
+    margin: 0 auto;
+    text-align: center;
+}
+.blue .wallet .bao{
+    margin-top:0.96rem;
+}
+.blue .wallet p{
+    margin-top: .56rem;
+}
+.blue .wallet i{
+    margin-top: .226667rem;
+    font-size: .266667rem;
+    color: #A6DCBD;
+}
+.blue .wallet i img{
+    margin-bottom: .053333rem;
+}
+/* 第二行 end */
+
+/* 第三行 start */
+.surverse{
+    margin: .24rem .186667rem 0;
+    background-color: #fff;
+    border-radius: .133333rem;
+    border: .013333rem solid #EFEFEF;
+    font-size: .346667rem;
+}
+.surverse .hang{
+    height: 1.266667rem;
+    line-height: 1.266667rem;
+    padding-left: .413333rem;
+    color: #6D6B72;
+}
+.surverse .duo{
+    color: #1D1D1D;
+}
+.surverse .duo ul{
+    display: flex;
+    justify-content: space-around;
+}
+.surverse .duo ul li{
+    text-align: center;
+    width: 33.33333%;
+    padding-top: .666667rem;
+    padding-bottom: .88rem;
+    border: .013333rem solid #EFEFEF;
+}
+.surverse .duo ul li p{
+    margin-top: .32rem;
+}
+/* 第三行 end */
+
+/* 限时推广 start */
+.tuig{
+    margin: .24rem .186667rem 0;
+    background-color: #fff;
+    height: 4.093333rem;
+    border-radius: .133333rem;
+    border: .013333rem solid #EFEFEF;
+    font-size: .346667rem;
+}
+.tuig h3{
+    height: 1.266667rem;
+    line-height: 1.266667rem;
+    padding-left: .413333rem;
+    color: #6D6B72;
+    border-bottom: .013333rem solid #EFEFEF;
+}
+.tuig .ma{
+    width: 3.213333rem;
+    height: 2.84rem;
+    border: .013333rem solid #EFEFEF;
+    text-align: center; 
+}
+.tuig .ma img{
+    margin-top: .693333rem;
+}
+.tuig .ma p{
+    color: #1D1D1D;
+    margin-top: 66px;
+}
+/* 限时推广 end */
