@@ -12,6 +12,34 @@ header{
     line-height: .413333rem;
     padding: 0 .146667rem;    
 }
+header .yidong .a{
+    width: .346667rem;
+    height: .266667rem;
+}
+.b{
+    width: .4rem;
+    height: .213333rem;
+}
+.c{
+    width: .293333rem;
+    height: .266667rem;
+}
+.d{
+    width:.24rem;
+    height: .226667rem;
+}
+.e{
+    width: .64rem;
+    height:.28rem ;
+}
+.f{
+    width: .226667rem;
+    height: .413333rem;
+}
+.g{
+    width: .426667rem;
+    height: .093333rem;
+}
 /* header end */
 
 /* 第一行start */
@@ -45,6 +73,8 @@ header{
 .blue .shoufukuan img{
     margin-left:2rem;
     margin-top:0.96rem;
+    width: .826667rem;
+    height: .666667rem;
 }
 .blue .shoufukuan p{
     margin-left: 1.76rem;
@@ -53,6 +83,10 @@ header{
 .blue .wallet{
     margin: 0 auto;
     text-align: center;
+}
+.blue .wallet img{
+    width: .826667rem;
+    height: .666667rem;
 }
 .blue .wallet .bao{
     margin-top:0.96rem;
@@ -67,6 +101,8 @@ header{
 }
 .blue .wallet i img{
     margin-bottom: .053333rem;
+    width: .173333rem;
+    height: .253333rem;
 }
 /* 第二行 end */
 
@@ -98,6 +134,10 @@ header{
     padding-bottom: .88rem;
     border: .013333rem solid #EFEFEF;
 }
+.surverse .duo ul li img{
+    width: .586667rem;
+    height: ;
+}
 .surverse .duo ul li p{
     margin-top: .32rem;
 }
@@ -127,9 +167,11 @@ header{
 }
 .tuig .ma img{
     margin-top: .693333rem;
+    width: .533333rem;
+    height: .533333rem;
 }
 .tuig .ma p{
     color: #1D1D1D;
-    margin-top: 66px;
+    margin-top: .88rem;
 }
 /* 限时推广 end */
